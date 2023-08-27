@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @yashtachi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  <!---```python
-print("Hello ffff")
+- 👀 I’m interested in Learning new things
+- 🌱 I’m currently learning full stack
+- 💞️ I’m looking to collaborate on frontend and backend
+- 📫 How to reach me yashwanthmiryala1234@gmail.com
+ 
+
 ```
 --->
 <!---
