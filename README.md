@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashtachi
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on frontend and backend
 - 📫 How to reach me yashwanthmiryala1234@gmail.com
  
