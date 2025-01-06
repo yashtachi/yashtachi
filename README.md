@@ -70,6 +70,13 @@
 - Organized and participated in multiple hackathons focused on Machine Learning and Python.  
 
 ---
+## 🌟 Expertise
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0288D1?style=for-the-badge&logo=pandas&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-9C27B0?style=for-the-badge&logo=python&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ## 📜 Certifications
 
